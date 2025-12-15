@@ -34,7 +34,7 @@ const Header = () => {
               </a>
             ))}
             <a
-              href="https://form.jotform.com/253403459000648"
+              href="https://linktr.ee/institutojosegomes?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnZHJokcg8CzFl9iteQOFIZHCEFVSJJM79_iE7bIgfDZ64lc8xUrpE9OLxkvs_aem_PM3k_foGwIa2sdynWPfFlg"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-gold px-5 py-2.5 rounded-md text-sm flex items-center gap-2"

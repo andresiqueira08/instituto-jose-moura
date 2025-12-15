@@ -16,7 +16,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.instagram.com/institutojosegomes/"
                 className="w-10 h-10 rounded-full bg-gold/20 flex items-center justify-center text-gold hover:bg-gold hover:text-navy transition-colors duration-300"
                 aria-label="Instagram"
               >
@@ -34,13 +34,13 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="text-gold mt-1 flex-shrink-0" size={18} />
                 <p className="text-cream/60 text-sm">
-                  Endereço da clínica
+                  Praça Barão do Rio Branco, n° 33.
                 </p>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="text-gold flex-shrink-0" size={18} />
                 <p className="text-cream/60 text-sm">
-                  (XX) XXXXX-XXXX
+                  (87) 99206-3511
                 </p>
               </div>
             </div>
